@@ -5,10 +5,9 @@
 
 
 Skills/Languages--
--JavaScrit
+-JavaScript
 -HTML
 -CSS
--React.js
 -SQL Database
 
 
