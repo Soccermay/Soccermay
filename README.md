@@ -4,7 +4,7 @@
 - 💞️ I’m looking to collaborate on various companies who are looking for a frontend developer
 
 
-Skills/Languages--
+# Skills/Languages--
 -JavaScript
 -HTML
 -CSS
