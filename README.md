@@ -8,6 +8,7 @@
 -JavaScript,
 -HTML,
 -CSS,
+-C#
 -SQL Database
 
 
